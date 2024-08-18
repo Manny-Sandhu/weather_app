@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string name="City_Title">City</string>
+    <string name="Wind">Wind</string>
+    <string name="Pressure">Pressure</string>
+    <string name="Humidity">Humidity</string>
+    <string name="Sunrise">Sunrise</string>
+    <string name="Hourly">Hourly Details</string>
+    <string name="wind_details">Details</string>
+    <string name="pressure_details">Details</string>
+    <string name="humidity_details">Details</string>
+    <string name="hourly_details">Details\nDetails\nDetails\nDetails</string>
+    <string name="sunrise_details">Details</string>
+    <string name="Date">Date</string>
+    <string name="Temp">Temp</string>
+    <string name="Description">Description</string>
+    <string name="high">high</string>
+    <string name="low">low</string>
+</resources>
